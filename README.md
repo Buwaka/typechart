@@ -4,12 +4,7 @@ An interactive [pokémon type chart](https://cdn.rawgit.com/aaditmshah/typechart
 
 # Preset Type Charts #
 
-1. [Gen 6 type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/index.html)
-2. [Gen 2-5 type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/old.html)
-3. [Gen 1 type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/original.html)
-4. [Gen 6 blank type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/index.html#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-5. [Gen 2-5 blank type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/old.html#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-6. [Gen 1 blank type chart](https://cdn.rawgit.com/aaditmshah/typechart/master/original.html#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+1. [Gen 6 type chart](https://raw.githack.com/Buwaka/typechart-Blank-slate/master/index.html)
 
 # Design #
 
